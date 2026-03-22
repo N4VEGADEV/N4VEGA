@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/CSS3-153c32?style=for-the-badge&logo=css3&logoColor=3fffa4" />
   <img src="https://img.shields.io/badge/Node.js-153c32?style=for-the-badge&logo=nodedotjs&logoColor=3fffa4" />
   <img src="https://img.shields.io/badge/GitHub-153c32?style=for-the-badge&logo=github&logoColor=3fffa4" />
+  <img src="https://img.shields.io/badge/Python-153c32?style=for-the-badge&logo=python&logoColor=3fffa4" />
 </p>
 
 ---
@@ -32,10 +33,3 @@
 </p>
 
 ---
-
-### 📡 [CONNECTION_ESTABLISHED]
-<p align="left">
-  <a href="https://linkedin.com/in/N4VEGADEV">
-    <img src="https://img.shields.io/badge/LINKEDIN-153c32?style=for-the-badge&logo=linkedin&logoColor=3fffa4" />
-  </a>
-</p>
