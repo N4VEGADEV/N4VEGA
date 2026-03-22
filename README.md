@@ -1,4 +1,4 @@
-# ⚡ Terminal Session: N4VEGA_DEV
+# ⚡ Terminal Session: N4VEGADEV
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=153c32&height=120&section=header&text=ACCESS%20GRANTED&fontSize=50&fontColor=3fffa4" />
@@ -19,5 +19,27 @@
 
 ### 📊 [SYSTEM_STATS]
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N4VEGADEVO&show_icons=true&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
-  <img height="170" src="
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N4VEGADEV&show_icons=true&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4VEGADEV&layout=compact&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4VEGADEV&theme=matrix&background=153c32&ring=3fffa4&fire=3fffa4&currStreakLabel=3fffa4&hide_border=true" />
+</p>
+
+---
+
+### 🐍 [CONTRIBUTION_SNAKE]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N4VEGADEV/N4VEGA/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📡 [CONNECTION_ESTABLISHED]
+<p align="left">
+  <a href="https://linkedin.com/in/N4VEGADEV">
+    <img src="https://img.shields.io/badge/LINKEDIN-153c32?style=for-the-badge&logo=linkedin&logoColor=3fffa4" />
+  </a>
+</p>
